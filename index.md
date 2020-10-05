@@ -25,5 +25,8 @@ Idealnya, setiap wireless access point atau router sudah dibekali dengan keamana
 
 Kalau suatu komputer tidak terdaftar, maka MAC Filter Address tidak akan memperbolehkan untuk masuk ke jaringan. Langkah pertama terlebih dahulu mendaftarkan komputer yang digunakan agar bisa terhubung dengan jaringan Wi-Fi. Karena karakteristiknya ini, MAC Filter pun cukup peka terhadap jenis gangguan seperti pencurian PC card dalam MAC Filter.
 
+![Image](cyber1jpg.webp) ![Image](cyber2jpg.webp)
+
+
 # TERIMA KASIH SUDAH BERKUNJUNG
 ## SELAMAT MEMBACA :)
