@@ -1,5 +1,8 @@
 # KEAMANAN JARINGAN NIRKABEL
 
+![Image](dheaku.jpg)
+
+
 ## Pengertian Jaringan Nirkabel
 Jaringan nirkabel adalah teknologi yang menggunakan dua piranti untuk bertukar data tanpa media kabel. Data dipertukarkan melalui media gelombang cahaya tertentu (seperti teknologi infrared pada remote TV) atau gelombong radio (seperti bluetooth pada ponsel dan komputer) dengan frekuensi tertentu. Jaringan nirkabel biasanya menghubungkan satu sistem komputer dengan sistem yang lain dengan menggunakan beberapa macam media transmisi tanpa kabel seperti: gelombang radio, gelombang mikro, maupun cahaya infrared.
 
