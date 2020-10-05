@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# KEAMANAN JARINGAN NIRKABEL
 
-You can use the [editor on GitHub](https://github.com/mKhairulikhsan/Keamanan_Jaringan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Pengertian Jaringan Nirkabel
+Jaringan nirkabel adalah teknologi yang menggunakan dua piranti untuk bertukar data tanpa media kabel. Data dipertukarkan melalui media gelombang cahaya tertentu (seperti teknologi infrared pada remote TV) atau gelombong radio (seperti bluetooth pada ponsel dan komputer) dengan frekuensi tertentu. Jaringan nirkabel biasanya menghubungkan satu sistem komputer dengan sistem yang lain dengan menggunakan beberapa macam media transmisi tanpa kabel seperti: gelombang radio, gelombang mikro, maupun cahaya infrared.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tipe Keamanan Jaringan Wireless
 
-### Markdown
+## Wired Equivalent Privacy (WEP)
+Ini dia tipe keamanan jaringan wireless yang pertama kali digunakan untuk enkripsi Wi-Fi. Wired Equivalent Privacy (WEP) bekerja menggunakan kunci yang dimasukkan oleh administrator ke access point. Antara kunci yang diberikan access point ke klien dengan yang dimasukkan klien untuk otentifikasi ke access point, keduanya harus sama. Idealnya, standar yang digunakan WEP adalah 802.11b.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sayangnya, karena merupakan tipe keamanan jaringan wireless pertama, sistem keamanannya bisa dikatakan masih lemah. Namun, WEP tetap dipilih  banyak orang karena sudah memenuhi standar 802.11b yang mencakup exportable, reasonably strong, reasonably strong, self-synchronizing, optional, dan cpmputationally efficient.
 
-```markdown
-Syntax highlighted code block
+## Wi-Fi Protected Access (WPA)
+Diciptakan untuk melengkapi keamanan pada WEP, Wi-Fi Protected Access (WPA) menerapkan kunci keamanan statik dengan memanfaatkan Temporal Key Integrity Protocol (TKIP). Memiliki kemampuan untuk berubah secara dinamis, protokol TKIP menggunakan kunci utama sebagai starting point yang berubah secara reguler. Dengan begini, tidak ada kunci enkripsi yang bisa digunakan dua kali.
 
-# Header 1
-## Header 2
-### Header 3
+Umumnya, WPA hadir dalam dua tipe, yaitu WPA biasa dan WPA2. Karena merupakan pembaruan dari WEP, WPA biasanya masih menggunakan enkripsi yang sama dengan WEP, yaitu RC4. Sedangkan, standar yang digunakan oleh keamanan jaringan wireless satu ini adalah 802.11i.
 
-- Bulleted
-- List
+## Wi-Fi Protected Access (WPA2)
+Seperti yang mungkin sudah bisa Anda tebak, WPA2 merupakan keamanan jaringan wireless hasil upgrade dari WPA biasa. WPA2 terbagi lagi menjadi dua jenis, yaitu WPA2 personal dan WPA2 enterprise. Disebut juga dengan WPA2 Pre-Shared Key (PSK), WPA2 personal ditujukan untuk pengguna jaringan kecil, misalnya penggunaan jaringan Wi-Fi di rumah.
 
-1. Numbered
-2. List
+Sayangnya, kelemahan WPA2 PSK justru seringnya disebabkan oleh administratornya sendiri. Masih banyak orang menggunakan password Wi-Fi yang mudah ditebak dan diretas, misalnya angka 1-5 atau tanggal lahir. Sedangkan, WPA2 enterprise ditujukan untuk jaringan yang cenderung lebih besar, contohnya perusahaan. Karena sifatnya ini, penggunaan WPA2 enterprise biasanya mengharuskan pengguna untuk memakai akun yang sudah terintegrasi oleh sistem perusahaan.
 
-**Bold** and _Italic_ and `Code` text
+## MAC Filter
+Idealnya, setiap wireless access point atau router sudah dibekali dengan keamanan jaringan wireless MAC Filtering. MAC Filter, disebut juga dengan MAC Address Filtering, adalah metode filtering yang digunakan untuk membatasi hak akses dari MAC Address. MAC Filter ini jugalah yang bertugas “memilih” komputer mana yang boleh masuk ke jaringan sesuai dengan MAC Address.
 
-[Link](url) and ![Image](src)
-```
+Kalau suatu komputer tidak terdaftar, maka MAC Filter Address tidak akan memperbolehkan untuk masuk ke jaringan. Langkah pertama terlebih dahulu mendaftarkan komputer yang digunakan agar bisa terhubung dengan jaringan Wi-Fi. Karena karakteristiknya ini, MAC Filter pun cukup peka terhadap jenis gangguan seperti pencurian PC card dalam MAC Filter.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mKhairulikhsan/Keamanan_Jaringan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# TERIMA KASIH SUDAH BERKUNJUNG
+## SELAMAT MEMBACA :)
